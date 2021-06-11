@@ -41,6 +41,7 @@ body {
 .linked:hover {
     text-decoration: underline;
     color: #bf9000;
+    cursor: pointer;
 }
 
 .linked:focus {
