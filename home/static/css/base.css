@@ -199,3 +199,7 @@ nav{
 #myBtn {
     border: none;
 }
+
+.close {
+    width: 25px;
+} 
